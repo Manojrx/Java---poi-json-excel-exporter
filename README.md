@@ -27,6 +27,5 @@ A lightweight ⚡ Spring Boot application that converts structured JSON data int
 
 ---
 
-## 📂 Project Structure
 
 
